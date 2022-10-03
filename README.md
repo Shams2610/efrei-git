@@ -16,4 +16,4 @@ _avec retour à la ligne_\
 | Syntax    | Description |
 | --------- | ----------- |
 | Header    | Title       |
-| Paragraph | Text        |
+| Texte exemple aligné à gauche |  Text exemple au milieu      | Texte exemple aligné à droite
