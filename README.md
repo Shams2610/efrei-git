@@ -12,10 +12,10 @@ _Je suis un super paragraphe en italique_\
 _avec retour à la ligne_\
 **Je suis un paragraphe en gras.**
 
-
 | Syntax    | Description |
 | --------- | ----------- |
 | Header    | Title       |
 | Texte exemple aligné à gauche |  Text exemple au milieu      | Texte exemple aligné à droite
 
-Je suis une nouvelle phrase!
+# Fonctionnement
+Afin de pouvoir fonctionner ce projet, vous devrez créer, à la racine du dossier parent, un fichier secret.txt contenant les client_secret et client_key.
