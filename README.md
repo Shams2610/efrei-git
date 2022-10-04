@@ -1,6 +1,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
+=======
+J'applique des modifs branche main
+blablabla
+>>>>>>> Stashed changes
 =======
 J'applique des modifs branche main
 blablabla
