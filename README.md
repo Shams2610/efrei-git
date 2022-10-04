@@ -4,6 +4,19 @@
 | :-------- | :---------: | ----: |
 | Header    | Title       | Texte |
 | Texte exemple aligné à gauche | Texte exemple centré | Texte exemple aligné à droite |
+# Titre H1
+## Titre H2
+### Titre H3
+#### Titre H4
+##### Titre H5
+###### Titre H6
+
+## Fonctionnement
+
+| Syntax    | Description | Test  |
+| :-------- | :---------: | ----: |
+| Header    | Title       | Texte |
+| Texte exemple aligné à gauche | Texte exemple centré | Texte exemple aligné à droite |
 
 ## Fonctionnement
 
