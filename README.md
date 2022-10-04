@@ -1,6 +1,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 =======
 J'applique des modifs branche main
@@ -13,6 +14,9 @@ blablabla
 =======
 J'applique des modifs branche main
 blablabla
+>>>>>>> Stashed changes
+=======
+J'applique des modifs branche main 
 >>>>>>> Stashed changes
  MODIF MAIN
 | Syntax    | Description | Test  |
